@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lizi0019
-- 👀 I’m interested in ... programing
+- 👋 Hi, I’m nix
+- 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... python language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ... open-source projects
+- 📫 How to reach me ... github: lizi0019
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... nah... 
 
 <!---
 lizi0019/lizi0019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
